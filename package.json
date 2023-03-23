@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "react-icons": "^4.8.0"
+  },
+  "name": "to-do-list-with-react",
+  "description": "A easy to use React based application for making our regular to do list with an amazig User Interface and attractive features",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "webpack --config=Scripts/config/webpack.dev.js --watch",
+    "build": "webpack --config=Scripts/config/webpack.prod.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
